@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalho como Analista de Suporte de Terceiro Nível
 - 🌱 Estudando .NET Backend Development
 - 📫 Como chegar até mim: rodrigo_reis_87@hotmail.com
-- 😄 Pronomes: ele/dele
 
 <br>
 <div align="left">
