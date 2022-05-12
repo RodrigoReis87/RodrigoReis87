@@ -1,6 +1,6 @@
 ### Olá, eu sou RodrigoReis87 👋
 
-- 🔭 Atualmente trabalho como Analista de Suyporte de Terceiro Nível
+- 🔭 Atualmente trabalho como Analista de Suporte de Terceiro Nível
 - 🌱 Estudando .NET Backend Development
 - 📫 Como chegar até mim: rodrigo_reis_87@hotmail.com
 - 😄 Pronomes: ele/dele
@@ -16,7 +16,7 @@
   <a href= "https://github.com/RodrigoReis87">
   <image height="30em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">    
 </div>
-    
+<br>
 <div align="left">
   
   <image height="30em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
