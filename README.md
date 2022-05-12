@@ -5,6 +5,7 @@
 - 📫 Como chegar até mim: rodrigo_reis_87@hotmail.com
 - 😄 Pronomes: ele/dele
 
+<br>
 <div align="left">
   
   <a href= "https://www.linkedin.com/in/rodrigo-reis-555113119/">
