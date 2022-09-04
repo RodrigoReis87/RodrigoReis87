@@ -1,7 +1,6 @@
 ### Olá, eu sou RodrigoReis87 👋
 
-- 🔭 Atualmente trabalho como Analista de Suporte de Terceiro Nível
-- 🌱 Estudando .NET Backend Development
+- 🔭 Software Developer | .Net | C#
 - 📫 Como chegar até mim: rodrigo_reis_87@hotmail.com
 
 <br>
@@ -23,14 +22,6 @@
      
   <image height="30em" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     
-  <image height="30em" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    
   <image height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-     
-  <image height="30em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    
-  <image height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    
-  <image height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     
 </div>
